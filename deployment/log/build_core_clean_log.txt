@@ -1,0 +1,8 @@
+Buildfile: C:\d\repo\widgets-resources-cn\testProject\deployment\build_core.xml
+
+clean:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+

@@ -1,0 +1,24 @@
+{
+  "Configuration": {
+    "DatabaseName": "default",
+    "DatabasePassword": "",
+    "DatabaseType": "HSQLDB",
+    "DatabaseHost": "",
+    "DatabaseUserName": "",
+    "DatabaseUseIntegratedSecurity": "False",
+    "ApplicationRootUrl": "http://localhost:8081/",
+    "ScheduledEventExecution": "None"
+  },
+  "Constants": {
+    "MyFirstModule.Constant": "",
+    "AMap.AMap_Version": "1.0.0",
+    "AMap.AMapKey": "a7a90e05a37d3f6bf76d4a9032fc9129",
+    "Atlas_Core.Atlas_Core_Version": "3.0.5",
+    "Atlas_Web_Content.Atlas_Web_Content_Version": "3.0.5",
+    "CommunityCommons.MergeMultiplePdfs_MaxAtOnce": "10",
+    "DataGrid.DataGrid_Version": "1.3.2",
+    "NanoflowCommons.Nanoflow_Commons_Version": "2.0.1",
+    "WebActions.WebActions_Version": "2.1.1"
+  },
+  "AdminPassword": null
+}

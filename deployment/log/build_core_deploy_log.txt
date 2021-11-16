@@ -1,0 +1,10 @@
+Buildfile: C:\d\repo\widgets-resources-cn\testProject\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 41 files to C:\d\repo\widgets-resources-cn\testProject\deployment
+     [copy] Copying 26 files to C:\d\repo\widgets-resources-cn\testProject\deployment\model\lib\userlib
+     [copy] Copying 5 files to C:\d\repo\widgets-resources-cn\testProject\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+

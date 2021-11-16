@@ -1,0 +1,14 @@
+Buildfile: C:\d\repo\widgets-resources-cn\testProject\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 2 source files to C:\d\repo\widgets-resources-cn\testProject\deployment\run\bin
+    [javac] 注: C:\d\repo\widgets-resources-cn\testProject\javasource\system\UserActionsRegistrar.java使用或覆盖了已过时的 API。
+    [javac] 注: 有关详细信息, 请使用 -Xlint:deprecation 重新编译。
+
+package:
+      [jar] Building jar: C:\d\repo\widgets-resources-cn\testProject\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 1 second
+
+
